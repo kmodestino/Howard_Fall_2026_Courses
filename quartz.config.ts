@@ -28,29 +28,29 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },
+  lightMode: {
+  light: "#faf8f8",         // Page background
+  lightgray: "#e5e5e5",     // Borders
+  gray: "#b8b8b8",          // Graph links/dates
+  darkgray: "#4e4e4e",      // Body text
+  dark: "#2b2b2b",          // Header text
+  secondary: "#003A70",     // Howard Blue (Links/Folders)
+  tertiary: "#E51937",      // Howard Red (Hover effect)
+  highlight: "rgba(0, 58, 112, 0.15)", // Page link background
+  textHighlight: "#fff2ad", // The yellow "highlighter" color for search/marked text
+},
+ darkMode: {
+  light: "#161617",         // Dark background
+  lightgray: "#393639",     // Borders
+  gray: "#646464",          // Meta-text/dates
+  darkgray: "#d4d4d4",      // Body text
+  dark: "#ebebec",          // Header text
+  secondary: "#7ea3ff",     // Softer Blue (easier for eyes in dark mode)
+  tertiary: "#ff7e7e",      // Softer Red/Pink (hover effect)
+  highlight: "rgba(126, 163, 255, 0.15)", // Subtle link highlight
+  textHighlight: "#b3aa02", // Darker gold highlight for search hits
+},
+},
     },
   },
   plugins: {
