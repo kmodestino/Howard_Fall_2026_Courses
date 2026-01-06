@@ -1,13 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-.bison-theme thead {
-  background-color: #003A63; /* Bison Blue */
-  color: white;
+.bison-theme thead th {
+  background-color: #003A63 !important; /* Bison Blue */
+  color: #FFFFFF !important;            /* Pure White Text */
+  font-weight: bold;
+  text-align: center;
 }
 
-.bison-theme table, 
-.bison-theme th, 
-.bison-theme td {
-  border: 1px solid #003A63; /* This gives you those blue borders you wanted */
+/* Optional: Make the borders light so they show up against the blue */
+.bison-theme thead {
+  border-bottom: 2px solid #FFFFFF;
 }
