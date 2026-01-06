@@ -22,14 +22,14 @@ By choosing the independent sources below, we prioritize:
 
 ### 1. Homer, *The Odyssey* (Trans. Emily Wilson)
 *Weeks 1–4*
-* **Physical (Indie):** [Bookshop.org - W.W. Norton Edition](https://bookshop.org/p/books/the-odyssey-homer/8051664?ean=9780393356250)
-* **Digital (ePub):** [eBooks.com]((https://www.ebooks.com/en-ag/book/210073027/the-odyssey/homer/)
+* **Physical (Indie):** [Bookshop.org](https://bookshop.org/p/books/the-odyssey-homer/8051664?ean=9780393356250)
+* **Digital (ePub):** [eBooks.com](https://www.ebooks.com/en-ag/book/210073027/the-odyssey/homer/)
 * **Used:** [Better World Books](https://www.betterworldbooks.com/product/detail/the-odyssey-9780393356250)
 
 ### 2. *The Epic of Gilgamesh* (Trans. Andrew George)
 *Week 5*
-* **Physical (Indie):** [Bookshop.org - Penguin Classics](https://bookshop.org/p/books/the-epic-of-gilgamesh-andrew-george/8953110?ean=9780140449198)
-* **Digital (ePub):** [eBooks.com - Penguin Edition](https://www.ebooks.com/en-us/book/210517833/the-epic-of-gilgamesh/n-k-sandars/)
+* **Physical (Indie):** [Bookshop.org](https://bookshop.org/p/books/the-epic-of-gilgamesh-andrew-george/8953110?ean=9780140449198)
+* **Digital (ePub):** [eBooks.com](https://www.ebooks.com/en-us/book/210517833/the-epic-of-gilgamesh/n-k-sandars/)
 * **Used:** [Better World Books](https://www.betterworldbooks.com/product/detail/the-epic-of-gilgamesh-9780140449198)
 
 ### 3. D. T. Niane, *Sundiata: An Epic of Old Mali* (Trans. G.D. Pickett)
@@ -41,7 +41,7 @@ By choosing the independent sources below, we prioritize:
 ### 4. Mário de Andrade, *Macunaíma*
 *Weeks 7–8*
 * **Physical (Indie):** [Bookshop.org](https://bookshop.org/p/books/macuna-ma-the-hero-with-no-character-m-rio-de-andrade/a0cec9e850b7787c)
-* * **Digital (ePub):** [eBooks.com](https://www.ebooks.com/en-us/book/210703826/macuna-ma-the-hero-with-no-character/mario-de-andrade/?srsltid=AfmBOoqb_dkWtlupUNvBDLkMhesbh_gchvz7eEPhJOG734jX0aZRUBV-)
+* **Digital (ePub):** [eBooks.com](https://www.ebooks.com/en-us/book/210703826/macuna-ma-the-hero-with-no-character/mario-de-andrade/?srsltid=AfmBOoqb_dkWtlupUNvBDLkMhesbh_gchvz7eEPhJOG734jX0aZRUBV-)
 * **Used (1984 Goodland Edition):** [Better World Books](https://www.betterworldbooks.com/product/detail/macunaima-9780394534121)
 
 ### 5. Tsitsi Dangarembga, *Nervous Conditions*
