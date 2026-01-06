@@ -12,3 +12,18 @@
 .bison-theme thead {
   border-bottom: 2px solid #FFFFFF;
 }
+/* Ensure the note has 'cssclasses: bison-theme' in the YAML */
+
+.bison-theme table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 2px solid #003A63 !important; /* Thick Bison Blue outer border */
+}
+
+.bison-theme th {
+  border: 1px solid #FFFFFF !important; /* White borders for the blue header */
+}
+
+.bison-theme td {
+  border: 1px solid #dee2e6 !important; /* Light gray borders for the white body */
+}
