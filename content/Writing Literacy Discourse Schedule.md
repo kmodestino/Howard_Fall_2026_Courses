@@ -13,50 +13,50 @@ cssclasses:
 
 **I. Corporate Frameworks and Primary Sources**
 
-- **Anthropic.** (2023). _Claude’s Constitution: A Guide to Constitutional AI_. [https://www.anthropic.com/news/claudes-constitution](https://www.anthropic.com/news/claudes-constitution)
+- **Anthropic.** (2023). _[Claude’s Constitution: A Guide to Constitutional AI](https://www.anthropic.com/news/claudes-constitution)
     
-- **Anthropic.** (2024). _Alignment Faking in Large Language Models_. [https://www.anthropic.com/research/alignment-faking](https://www.anthropic.com/research/alignment-faking)
+- **Anthropic.** (2024). [Alignment Faking in Large Language Models_](https://www.anthropic.com/research/alignment-faking)
     
-- **Google.** (2025). _Our AI Principles: A 2025 Progress Report_. [https://ai.google/responsibility/principles/](https://ai.google/responsibility/principles/)
+- **Google.** (2025). _[Our AI Principles: A 2025 Progress Report_](https://ai.google/responsibility/principles/)
     
-- **Meta AI.** (2024). _Responsible Use Guide for Llama 3.1_. [https://about.meta.com/technologies/llama-responsible-use-guide/](https://www.google.com/search?q=https://about.meta.com/technologies/llama-responsible-use-guide/)
+- **Meta AI.** (2024). [Responsible Use Guide for Llama 3.1](https://ai.meta.com/static-resource/responsible-use-guide/)
     
-- **Midjourney.** (2025). _Community Showcase and Prompt Archives_. [https://www.midjourney.com/showcase](https://www.midjourney.com/showcase)
+- **Midjourney.** (2025). [Community Showcase and Prompt Archives](https://www.midjourney.com/showcase)
     
-- **OpenAI.** (2025). _Our Approach to AI Safety_. [https://openai.com/blog/our-approach-to-ai-safety](https://openai.com/blog/our-approach-to-ai-safety)
+- **OpenAI.** (2025). [Our Approach to AI Safety](https://openai.com/blog/our-approach-to-ai-safety)
 
 **II. Academic and Policy Interventions**
 
-- **Kapoor, S., & Narayanan, A.** (2025). _AI as Normal Technology_. Knight First Amendment Institute at Columbia University. [https://knightcolumbia.org/content/ai-as-normal-technology](https://knightcolumbia.org/content/ai-as-normal-technology)
+- **Kapoor, S., & Narayanan, A.** (2025). [AI as Normal Technology_. Knight First Amendment Institute at Columbia University](https://knightcolumbia.org/content/ai-as-normal-technology)
     
-- **Laird, E., et al.** (2025). _Hand in Hand: Schools' Embrace of AI Connected to Increased Risks to Students_. Center for Democracy & Technology. [https://cdt.org/insights/hand-in-hand-schools-embrace-of-ai-connected-to-increased-risks-to-students/](https://cdt.org/insights/hand-in-hand-schools-embrace-of-ai-connected-to-increased-risks-to-students/)
+- **Laird, E., et al.** (2025). [Hand in Hand: Schools' Embrace of AI Connected to Increased Risks to Students_. Center for Democracy & Technology](https://cdt.org/insights/hand-in-hand-schools-embrace-of-ai-connected-to-increased-risks-to-students/)
     
-- **Mitchell, M., et al.** (2019). _Model Cards for Model Reporting_. [https://arxiv.org/abs/1810.03993](https://arxiv.org/abs/1810.03993)
+- **Mitchell, M., et al.** (2019). [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993)
     
-- **Mozilla Foundation.** (2025). _Privacy Not Included: The 2025 AI Guide_. ([Why we made *Privacy Not Included | Mozilla Foundation](https://www.mozillafoundation.org/en/privacynotincluded/about/why/)
+- **Mozilla Foundation.** (2025). [Why we made *Privacy Not Included](https://www.mozillafoundation.org/en/privacynotincluded/about/why/)
     
 
 **III. Critical Theory and Journalism**
 
-- **Crawford, K.** (2021). _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_. Sydney Ideas Interview [A/V Record]. [https://www.youtube.com/watch?v=nO-S7078Wdg](https://www.youtube.com/watch?v=nO-S7078Wdg)
+- **Crawford, K.** (2021). [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_. Sydney Ideas Interview YouTube Recording](https://www.youtube.com/watch?v=nO-S7078Wdg)
     
-- **Doctorow, C.** (2023). "Tiktok's enshittification (21 Jan 2023)"[https://pluralistic.net/2023/01/21/potemkin-ai/](https://pluralistic.net/2023/01/21/potemkin-ai/)
+- **Doctorow, C.** (2023). ["TikTok's Enshittification (21 Jan 2023)"](https://pluralistic.net/2023/01/21/potemkin-ai/)
     
-- **Hao, K.** (2022). "Artificial Intelligence is Creating a New Colonial World Order:" MIT Technology Review. [Artificial intelligence is creating a new colonial world order | MIT Technology Review](https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/)
+- **Hao, K.** (2022). [Artificial intelligence is creating a new colonial world order | MIT Technology Review](https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/)
     
-- **O'Neil, C.** (2017). _The Era of Blind Faith in Big Data Must End_. TED Transcript. [https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end/transcript](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end/transcript)
+- **O'Neil, C.** (2017). [The Era of Blind Faith in Big Data Must End | TED Talk](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end/transcript)
     
-- **O'Neil, C.** (2024). _Unmasking Unconscious Bias in AI_. [https://www.sap.com/blogs/thinkers-unmasking-unconscious-bias-in-ai](https://www.sap.com/blogs/thinkers-unmasking-unconscious-bias-in-ai)
+- **O'Neil, C.** (2024). [Unmasking Unconscious Bias in AI](https://www.sap.com/blogs/thinkers-unmasking-unconscious-bias-in-ai)
     
-- **Perrigo, B.** (2023). _The Labor of RLHF: Kenyan Workers and ChatGPT_. TIME. [https://time.com/6247678/openai-chatgpt-kenya-workers/](https://time.com/6247678/openai-chatgpt-kenya-workers/)
+- **Perrigo, B.** (2023). [The Labor of RLHF: Kenyan Workers and ChatGPT | TIME](https://time.com/6247678/openai-chatgpt-kenya-workers/)
     
-- **Silverman, J.** (2025). _Welcome to Slop World: How the Hostile Internet is Driving us Crazy_. Financial Times.(https://archive.ph/LzZFV)
+- **Silverman, J.** (2025). [Welcome to Slop World: How the Hostile Internet is Driving us Crazy | Financial Times](https://archive.ph/LzZFV)
     
-- **Watkins, G.** (2025). _AI: The New Aesthetics of Fascism_. New Socialist. [https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/)
+- **Watkins, G.** (2025). [AI: The New Aesthetics of Fascism | New Socialist.](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/)
     
-- **Wu, T.** (2016). _The Crisis of Attention_. Columbia Magazine. [https://magazine.columbia.edu/article/book-excerpt-attention-merchants-epic-scramble-get-inside-our-heads](https://magazine.columbia.edu/article/book-excerpt-attention-merchants-epic-scramble-get-inside-our-heads)
+- **Wu, T.** (2016). [The Crisis of Attention | Columbia Magazine](https://magazine.columbia.edu/article/book-excerpt-attention-merchants-epic-scramble-get-inside-our-heads)
     
-- **Zuboff, S.** (2021). _The Coup We Are Not Talking About_. New York Times. (https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html)l)
+- **Zuboff, S.** (2021). [The Coup We Are Not Talking About | New York Times](https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html)
 ---
 
 ### Algorithmic Information Literacy: Spring 2026 Schedule
