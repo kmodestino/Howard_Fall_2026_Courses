@@ -13,11 +13,11 @@ cssclasses:
 
 **I. Corporate Frameworks and Primary Sources**
 
-- **Anthropic.** (2023). _[Claude’s Constitution: A Guide to Constitutional AI](https://www.anthropic.com/news/claudes-constitution)
+- **Anthropic.** (2023). [Claude’s Constitution: A Guide to Constitutional AI](https://www.anthropic.com/news/claudes-constitution)
     
-- **Anthropic.** (2024). [Alignment Faking in Large Language Models_](https://www.anthropic.com/research/alignment-faking)
+- **Anthropic.** (2024). [Alignment Faking in Large Language Models](https://www.anthropic.com/research/alignment-faking)
     
-- **Google.** (2025). _[Our AI Principles: A 2025 Progress Report_](https://ai.google/responsibility/principles/)
+- **Google.** (2025). [Our AI Principles: A 2025 Progress Report](https://ai.google/responsibility/principles/)
     
 - **Meta AI.** (2024). [Responsible Use Guide for Llama 3.1](https://ai.meta.com/static-resource/responsible-use-guide/)
     
@@ -27,20 +27,20 @@ cssclasses:
 
 **II. Academic and Policy Interventions**
 
-- **Kapoor, S., & Narayanan, A.** (2025). [AI as Normal Technology_. Knight First Amendment Institute at Columbia University](https://knightcolumbia.org/content/ai-as-normal-technology)
+- **Kapoor, S., & Narayanan, A.** (2025). [AI as Normal Technology | Knight First Amendment Institute at Columbia University](https://knightcolumbia.org/content/ai-as-normal-technology)
     
-- **Laird, E., et al.** (2025). [Hand in Hand: Schools' Embrace of AI Connected to Increased Risks to Students_. Center for Democracy & Technology](https://cdt.org/insights/hand-in-hand-schools-embrace-of-ai-connected-to-increased-risks-to-students/)
+- **Laird, E., et al.** (2025). [Hand in Hand: Schools' Embrace of AI Connected to Increased Risks to Students | Center for Democracy & Technology](https://cdt.org/insights/hand-in-hand-schools-embrace-of-ai-connected-to-increased-risks-to-students/)
     
 - **Mitchell, M., et al.** (2019). [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993)
     
-- **Mozilla Foundation.** (2025). [Why we made *Privacy Not Included](https://www.mozillafoundation.org/en/privacynotincluded/about/why/)
+- **Mozilla Foundation.** (2025). [Why we made *Privacy Not Included*](https://www.mozillafoundation.org/en/privacynotincluded/about/why/)
     
 
 **III. Critical Theory and Journalism**
 
-- **Crawford, K.** (2021). [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_. Sydney Ideas Interview YouTube Recording](https://www.youtube.com/watch?v=nO-S7078Wdg)
+- **Crawford, K.** (2021). [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence | Sydney Ideas Interview YouTube Recording](https://www.youtube.com/watch?v=nO-S7078Wdg)
     
-- **Doctorow, C.** (2023). ["TikTok's Enshittification (21 Jan 2023)"](https://pluralistic.net/2023/01/21/potemkin-ai/)
+- **Doctorow, C.** (2023). ["TikTok's Enshittification"](https://pluralistic.net/2023/01/21/potemkin-ai/)
     
 - **Hao, K.** (2022). [Artificial intelligence is creating a new colonial world order | MIT Technology Review](https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/)
     
