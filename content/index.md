@@ -8,6 +8,6 @@ I am using a single website for all of my courses. Your syllabi will be here, as
 
 Please Select Your Course
 
-[[Introduction to Humanities I]]
+[[Courses/Introduction to Humanities I/index|Introduction to Humanities I]]
 
-[[Writing, Literacy, and Discourse]]
+[[Courses/Writing, Literacy, and Discourse/index|Writing, Literacy, and Discourse]]
