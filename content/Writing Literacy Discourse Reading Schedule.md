@@ -1,0 +1,83 @@
+---
+title: Writing Literacy and Discourse Reading Schedule
+publish: true
+cssclasses:
+  - "- bison-theme"
+---
+### **Course Texts**
+
+- **Benjamin, R.** (2019). _Race After Technology: Abolitionist Tools for the New Jim Code_. Polity Press.
+    
+- **Odell, J.** (2019). _How to Do Nothing: Resisting the Attention Economy_. Melville House.
+### **Course Bibliography: Open-Access Links**
+
+**I. Corporate Frameworks and Primary Sources**
+
+- **Anthropic.** (2023). [Claude’s Constitution: A Guide to Constitutional AI](https://www.anthropic.com/news/claudes-constitution)
+    
+- **Anthropic.** (2024). [Alignment Faking in Large Language Models](https://www.anthropic.com/research/alignment-faking)
+    
+- **Google.** (2025). [Our AI Principles: A 2025 Progress Report](https://ai.google/responsibility/principles/)
+    
+- **Meta AI.** (2024). [Responsible Use Guide for Llama 3.1](https://ai.meta.com/static-resource/responsible-use-guide/)
+    
+- **Midjourney.** (2025). [Community Showcase and Prompt Archives](https://www.midjourney.com/showcase)
+    
+- **OpenAI.** (2025). [Our Approach to AI Safety](https://openai.com/blog/our-approach-to-ai-safety)
+
+**II. Academic and Policy Interventions**
+
+- **Kapoor, S., & Narayanan, A.** (2025). [AI as Normal Technology | Knight First Amendment Institute at Columbia University](https://knightcolumbia.org/content/ai-as-normal-technology)
+    
+- **Laird, E., et al.** (2025). [Hand in Hand: Schools' Embrace of AI Connected to Increased Risks to Students | Center for Democracy & Technology](https://cdt.org/insights/hand-in-hand-schools-embrace-of-ai-connected-to-increased-risks-to-students/)
+    
+- **Mitchell, M., et al.** (2019). [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993)
+    
+- **Mozilla Foundation.** (2025). [Why we made *Privacy Not Included*](https://www.mozillafoundation.org/en/privacynotincluded/about/why/)
+    
+
+**III. Critical Theory and Journalism**
+
+- **Crawford, K.** (2021). [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence | Sydney Ideas Interview YouTube Recording](https://www.youtube.com/watch?v=nO-S7078Wdg)
+    
+- **Doctorow, C.** (2023). ["TikTok's Enshittification"](https://pluralistic.net/2023/01/21/potemkin-ai/)
+    
+- **Hao, K.** (2022). [Artificial intelligence is creating a new colonial world order | MIT Technology Review](https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/)
+    
+- **O'Neil, C.** (2017). [The Era of Blind Faith in Big Data Must End | TED Talk](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end/transcript)
+    
+- **O'Neil, C.** (2024). [Unmasking Unconscious Bias in AI](https://www.sap.com/blogs/thinkers-unmasking-unconscious-bias-in-ai)
+    
+- **Perrigo, B.** (2023). [The Labor of RLHF: Kenyan Workers and ChatGPT | TIME](https://time.com/6247678/openai-chatgpt-kenya-workers/)
+    
+- **Silverman, J.** (2025). [Welcome to Slop World: How the Hostile Internet is Driving us Crazy | Financial Times](https://archive.ph/LzZFV)
+    
+- **Watkins, G.** (2025). [AI: The New Aesthetics of Fascism | New Socialist.](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/)
+    
+- **Wu, T.** (2016). [The Crisis of Attention | Columbia Magazine](https://magazine.columbia.edu/article/book-excerpt-attention-merchants-epic-scramble-get-inside-our-heads)
+    
+- **Zuboff, S.** (2021). [The Coup We Are Not Talking About | New York Times](https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html)
+---
+
+### Algorithmic Information Literacy: Spring 2026 Schedule
+
+|         | **Monday: Foundations**                                                | **Wednesday: Framework + Intervention**                                                                                             | **Friday**              |
+| ------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **W1**  | **Jan 12:** Orientation: What is Algorithmic Information?              | **Jan 14:** **Anthropic:** _Claude’s Constitution_ + **Kapoor & Narayanan:** _AI as Normal Tech_                                    | **Jan 16:** Writing Lab |
+| **W2**  | **Jan 19: NO CLASS (MLK DAY)**                                         | **Jan 21:** **Ruha Benjamin:** _Race After Technology_ (Ch. 1-2) + **OpenAI:** _Our Approach to AI Safety_                          | **Jan 23:** Writing Lab |
+| **W3**  | **Jan 26:** **Ruha Benjamin:** _Race After Technology_ (Ch. 3-4)       | **Jan 28:** **CDT Report:** _Schools' Embrace of AI / Risks to Students_                                                            | **Jan 30:** Writing Lab |
+| **W4**  | **Feb 2:** **Ruha Benjamin:** _Race After Technology_ (Ch. 5-End)      | **Feb 4:** **Meta AI:** _Responsible Use Guide for Llama 3.1_                                                                       | **Feb 6:** Writing Lab  |
+| **W5**  | **Feb 9:** **Shoshana Zuboff:** _The Coup We Are Not Talking About_    | **Feb 11:** **Google:** _Our AI Principles: 2025 Progress Report_                                                                   | **Feb 13:** Writing Lab |
+| **W6**  | **Feb 16: NO CLASS (PRESIDENTS DAY)**                                  | **Feb 18:** **Cathy O'Neil:** _The Era of Blind Faith in Big Data Must End_ + **Mitchell et al:** _Model Cards for Model Reporting_ | **Feb 20:** Writing Lab |
+| **W7**  | **Feb 23:** **Cathy O'Neil:** _Unmasking Unconscious Bias in AI_       | **Feb 25:** **Anthropic:** _Alignment Faking in Large Language Models_                                                              | **Feb 27:** Writing Lab |
+| **W8**  | **Mar 2:** **Kate Crawford:** _Atlas of AI_ (Sydney Ideas A/V Record)  | **Mar 4:** **Midjourney:** _Community Showcase_ + **Gareth Watkins:** _AI: The New Aesthetics of Fascism_                           | **Mar 6:** Writing Lab  |
+| **W9**  | **MARCH 9-13**                                                         | **SPRING BREAK**                                                                                                                    | **NO CLASS**            |
+| **W10** | **Mar 16:** **Karen Hao:** _AI is Creating a New Colonial World Order_ | **Mar 18:** **Billy Perrigo:** _The Labor of RLHF: Kenyan Workers and ChatGPT_                                                      | **Mar 20:** Writing Lab |
+| **W11** | **Mar 23:** **Tim Wu:** _The Crisis of Attention_                      | **Mar 25:** **Jacob Silverman:** _Welcome to Slop World: The Hostile Internet_                                                      | **Mar 27:** Writing Lab |
+| **W12** | **Mar 30:** **Jenny Odell:** _How to Do Nothing_ (Ch. 1-2)             | **Apr 1:** **Cory Doctorow:**  Tiktok's Enshittification                                                                            | **Apr 3:** Writing Lab  |
+| **W13** | **Apr 6:** **Jenny Odell:** _How to Do Nothing_ (Ch. 3-4)              | **Apr 8:** **Mozilla Foundation:** _Privacy Not Included: The 2025 AI Guide_                                                        | **Apr 10:** Writing Lab |
+| **W14** | **Apr 13:** **Jenny Odell:** _How to Do Nothing_ (Ch. 5-End)           | **Apr 15:** _Final Audit Case Study: Personal Refusal vs. Efficiency_                                                               | **Apr 17:** Writing Lab |
+
+
+
+---

@@ -1,0 +1,49 @@
+---
+title: Course Book Purchasing Guide
+publish: true
+---
+
+
+##  Alternatives to Amazon
+
+While Amazon is often the default for many, I invite you to consider the following alternatives that align more closely with our course's commitment to **Data Sovereignty** and **Digital Agency**.
+
+### Why these alternatives?
+To align with our course's commitment to **Data Privacy**, I recommend exploring platforms that do not profit from high-volume user surveillance. Amazon's tracking of reading habits and consumer behavior is a form of digital monitoring we seek to minimize in this learning environment. 
+
+By choosing the independent sources below, we prioritize:
+* **Intellectual Privacy:** Ensuring your reading habits aren't treated as a data-mining asset.
+* **Ownership:** Opting for DRM-free ePubs that you truly "own" and can use across any device.
+* **Community Integrity:** Supporting a decentralized literary economy rather than a centralized monopoly.
+
+---
+
+---
+
+### 1. Ruha Benjamin, _Race After Technology_
+**Weeks 1–3** 
+- **Physical (Indie):** [Bookshop.org](https://www.google.com/search?q=https://bookshop.org/p/books/race-after-technology-abolitionist-tools-for-the-new-jim-code-ruha-benjamin/11059495) (
+    
+- **Digital (ePub):** [eBooks.com](https://www.google.com/search?q=https://www.ebooks.com/en-us/book/209675134/race-after-technology/ruha-benjamin/) 
+    
+- **Publisher Direct:** [Polity Books](https://www.politybooks.com) 
+    
+- **Used:** [Better World Books](https://www.betterworldbooks.com) 
+    
+
+### 2. Jenny Odell, _How to Do Nothing_
+**Weeks 4–6**
+- **Physical (Indie):** [Bookshop.org](https://www.google.com/search?q=https://bookshop.org/p/books/how-to-do-nothing-resisting-the-attention-economy-jenny-odell/8802287)
+    
+- **Digital (ePub):** [eBooks.com](https://www.google.com/search?q=https://www.ebooks.com/en-us/book/96057008/how-to-do-nothing/jenny-odell/)
+    
+- **Used:** [ThriftBooks](https://www.thriftbooks.com) 
+
+---
+
+### Library & Accessibility Options
+If purchasing is not an option, I strongly recommend the following free, library-based resources. These allow you to read without contributing to the data-mining ecosystems of major retailers.
+
+* **[Libby by OverDrive](https://www.overdrive.com/apps/libby):** This is the gold standard for privacy-centric digital borrowing. Download the app, connect your local or university library card, and you can borrow ePub or Audio versions of most of our texts for free.
+* **University Library:** Please check the Howard University library catalog for physical copies and institutional eBook access. 
+* **[Project Gutenberg](https://www.gutenberg.org/):** For older texts like *The Odyssey* (though not the Wilson translation) and *Gilgamesh*, you can find free, public-domain versions here in multiple formats.

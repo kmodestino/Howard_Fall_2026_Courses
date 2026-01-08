@@ -1,0 +1,43 @@
+---
+title: University Policies and Resources
+publish: true
+---
+## 🏛️ University Policies & Resources
+
+> [!CAUTION] Academic Integrity & AI Policy
+> **Summary:** Plagiarized papers or unauthorized AI use (ChatGPT) results in a zero and potential "F" for the course.
+> 
+> ***
+> **Full Policy:** Plagiarized papers (work copied from a written text without documentation, a classmate’s work, a previous assignment you have submitted for another class, or the internet) will earn a zero for the paper and potentially an “F” for the class. Using AI paper writing such as Chat GPT irresponsibly and without documentation or a papermill website also counts as academic dishonesty. A record of this plagiarism may become a part of your record in the English Department and potentially in the office of the chairperson of your major department and in the office of the Dean of the College of Arts & Sciences.
+> 
+> A second occurrence of plagiarism in the class or in the English Department will result in a failing grade for the class and a recommendation of expulsion from the university. You should familiarize yourself with the Academic Code of Conduct at this link: [Academic Code of Conduct](http://www.howard.edu/policy/academic/student-conduct.html)
+> .
+
+> [!INFO] Special Accommodations
+> **Action Required:** If you need accommodations, contact the Office of Student Services and provide your schedule to me as soon as possible.
+> 
+> ***
+> **Policy:** Howard University is committed to providing equal access for individuals with disabilities to all programs and services offered by the University. The University policy and practice is to create an inclusive and accessible learning environment in compliance with all applicable federal, state, and local disability and anti-discrimination laws.
+> 
+> **Contact:** Ms. Glennis Daniels-Bacchus ([glennis.danielsbacc@howard.edu](mailto:glennis.danielsbacc@howard.edu))
+> **Location:** Odd Fellows Building, 1851 9th Street NW, Second Floor. Phone: 202-238-2420.
+
+> [!ATTENTION] Incomplete Grades
+> **Requirement:** 70% of course work must be completed. 
+> 
+> ***
+> **Full Policy:** Incomplete grades will be submitted only in instances where documented emergencies occur near the end of the semester. A majority (over 70%) of the course’s requirements must have already been met. The written request must occur prior to the submission of final grades.
+
+> [!IMPORTANT] Title IX: Sex & Gender-Based Discrimination
+> **Note for Students:** As a faculty member, I am a **Responsible Employee**. I am required to report any information regarding suspected prohibited conduct to the Title IX Office.
+> 
+> **Confidential Resources (Will NOT report to Title IX):**
+> * **Interpersonal Violence Prevention Program:** 202-238-2420
+> * **University Counseling Services:** 202-806-7540
+> * **Student Health Center:** 202-806-7540
+> * **Howard University Hospital:** 202-865-1131
+> 
+> ***
+> **Full Policy:** Howard University is committed to creating a learning and working environment free from discrimination and harassment based on sex, gender, gender expression, gender identity, sexual orientation or marital status. The following forms of conduct are prohibited by the University’s Title IX Policy: Sexual Assault, Sexual Harassment, Gender-Based Discrimination or Harassment, Sexual Exploitation, Dating and Domestic Violence, Stalking, Retaliation, and Complicity. 
+> 
+> View the [Full Title IX Policy Here](http://www.howard.edu/secretary/documents/Howard-University-Interim-Policy-20171113.pdf).
