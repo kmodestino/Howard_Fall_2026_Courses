@@ -6,7 +6,8 @@ This semester, we are moving away from the cluttered, often distracting interfac
 
 I am using a single website for all of my courses. Your syllabi will be here, as well as assignments, class notes, readings, and any other important material. You will also submit papers here using MS 365 forms, which has more data privacy protections than Canvas or Google Docs. 
 
-Submit a Paper Below
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBUREIzTDVBWU5CUkFGVDQ1RlJHUDY5NTNVUC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+Please choose your course.
 
-(If form doesn't load click here: [Paper #1](https://forms.office.com/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBUREIzTDVBWU5CUkFGVDQ1RlJHUDY5NTNVUC4u))
+[[Courses/Introduction to Humanities I/index|Introduction to Humanities I]]
+
+[[Courses/Writing, Literacy, and Discourse/index|Writing, Literacy, and Discourse]]
