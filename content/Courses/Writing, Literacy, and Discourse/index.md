@@ -10,3 +10,5 @@ publish: true
 
 [[Courses/Writing, Literacy, and Discourse/4. Course Book Purchasing Guide|4. Course Book Purchasing Guide]]
 
+[[Courses/Writing, Literacy, and Discourse/5. Grades and Assignments|5. Grades and Assignments]]
+
