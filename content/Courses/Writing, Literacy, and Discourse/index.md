@@ -4,7 +4,7 @@ publish: true
 ---
 ![[WLD Banner.png]]
 <small> Image created with Nano Banana</small>
-## **Our Approach to Writing, Literacy and Discourse: Critical Algorithmic Literacy**##
+## **Our Approach to Writing, Literacy and Discourse: Critical Algorithmic Literacy**
 
 This course navigates the evolving relationship between writing, literacy, and the structural power of automated systems. Rather than viewing technology as a neutral tool for expression, we will build our **Critical Algorithmic Literacy**. I define this framework as the ability to move beyond functional use to an interrogation of the socio-ethical implications of Artificial Intelligence and social media algorithms. Throughout the semester, we will investigate how AI is not merely a technical advancement but a structural force that replicates historical biases and reshapes our attention. By decoding the opaque logic of these systems, we situating ourselves as active investigators rather than passive users. Algorithms have become the principle brokers and organizers of information, identity, and relationships. To develop information literacy, we must understand how they instance political and economic power in technical infrastructures
 
