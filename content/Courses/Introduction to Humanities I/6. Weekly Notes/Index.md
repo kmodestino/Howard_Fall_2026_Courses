@@ -2,4 +2,4 @@
 title: Weekly Notes
 publish: true
 ---
-[[Week 1 Jan. 12, 14, and 16.]]
+[[Courses/Introduction to Humanities I/6. Weekly Notes/Week 1 Jan. 12, 14, and 16.]]

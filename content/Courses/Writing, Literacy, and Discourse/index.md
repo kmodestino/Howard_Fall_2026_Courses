@@ -24,3 +24,5 @@ Please use the links below to navigate the course information. Weekly assignment
 
 [[Courses/Writing, Literacy, and Discourse/5. Grades and Assignments|5. Grades and Assignments]]
 
+[[Courses/Writing, Literacy, and Discourse/6. Weekly Notes/Index|6. Weekly Notes]]
+
