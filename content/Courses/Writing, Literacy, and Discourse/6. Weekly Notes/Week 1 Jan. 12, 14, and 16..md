@@ -12,7 +12,7 @@ Start Readings Using Links on Course Texts Page
 
 ### **Slide Deck**
 
-**1. Please sign in and do this activity before we begin ** 
+**1. Please sign in and do this activity before we begin** 
   
 _Step 1_: Think about your understanding of AI/LLMs. Please write down the following on a piece of paper (no submission).  
                   -one thing you KNOW about them  
@@ -55,7 +55,7 @@ _Demystification_: The rhetorical act of removing "hype" and "scifi" language to
   
 _The "Black Box"_: The idea that because we don't understand the math, the technology is "magic." Normalization treats the "Black Box" as just a complex engine.
 
-_Questions
+_Questions_
 
 How would you describe the form of this paper?  
   
