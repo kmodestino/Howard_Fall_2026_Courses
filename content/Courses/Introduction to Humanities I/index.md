@@ -20,3 +20,5 @@ Please use the links below to navigate the course information. Weekly assignment
 [[Courses/Introduction to Humanities I/4. Course Book Purchasing Guide|4. Course Book Purchasing Guide]]
 
 [[Courses/Introduction to Humanities I/5. Grades and Assignments|5. Grades and Assignments]]
+
+[[Courses/Introduction to Humanities I/6. Weekly Notes/Index|6. Weekly Notes]]
