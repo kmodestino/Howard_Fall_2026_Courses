@@ -15,3 +15,7 @@ Choose Your Course:
 About Me/Book a Meeting
 
 [[About Me]]
+
+Sports Letter Submission: If you are in my classes and have a sports letter for excused absences, please submit it here so I can ensure it does not get lost.
+
+[[Sports Letter Submission]]
