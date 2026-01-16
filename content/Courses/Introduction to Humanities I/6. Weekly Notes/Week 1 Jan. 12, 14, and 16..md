@@ -69,3 +69,43 @@ Book 12-24: The Return to Ithaka
 Why do you think we focus on Odysseus’s for son so long?
 
 ![[The Eagles (Nano Banana).png]]
+
+
+# Friday, Jan 16
+
+### Slide Deck
+
+**1. The Trojan War. Three Key Events**
+
+**The Judgment of Paris**
+
+-The foundational "original sin" of the war.
+-Eris’s Apple of Discord led Paris to choose Aphrodite over Hera and Athena, resulting in the abduction of Helen.
+-In Book 4, this lingers behind Helen’s self-characterization as "shameless" (4.145) and the "ordeal" the Greeks endured for her sake (4.170).
+
+**2. The Trojan Horse & Divine Wrath**
+
+-The stratagem that ended the war but sealed the Greeks' fate.
+-Menelaus recounts Odysseus’s steel nerves inside the horse (4.271–289),
+-However, the Greeks' subsequent desecration of Troy (specifically the shrines) turned the gods against them, causing the disastrous nostoi (homecomings) that left Odysseus stranded and many others dead.
+
+**3. The Tragedy of the House of Atreus**
+-The foil to Odysseus’s family.
+-Proteus reveals to Menelaus the murder of Agamemnon by Aegisthus and Clytemnestra, followed by Orestes’s revenge (4.512–537).
+-This serves as a warning for Telemachus of what happens when a homecoming goes wrong and as a model for the vengeance he must eventually take.
+
+**4. Writing Activity (for Submission)
+
+-Spend a few minutes with your text. You are preparing for a textual scavenger hunt.
+-As a test of your knowledge of the book, I will be giving you a few things to find and write about. But there will be a strict time limit.
+-I am giving you time to prepare. The questions will be about the themes we have discussed today.
+
+**5: Scavenger Hunt
+
+For Submission on the course website on the assignments page. Write in a .doc file and submit as a .doc or .pdf. Label each answer by number.
+
+**I**: In Book 1, Zeus discusses Aegisthus. What is the specific lesson Zeus says humans should learn about their own suffering?
+
+**II**: In Book 3, find where Nestor explicitly compares Telemachus to Orestes. What specific quality does Nestor say Telemachus must display to "win a name for himself"?
+
+**III**:  In Book 4, Helen tells a story of Odysseus entering Troy. Describe the specific physical disguise he used and how it contrasts with the "bloody" death of Agamemnon.
