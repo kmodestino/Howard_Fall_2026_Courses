@@ -69,7 +69,7 @@ Since this is from a foundation rather than a corporation, how does the document
 
 ### **Slide Deck**
 
-**1. Writing Lab: The Redteaming Experiment
+**1. Writing Lab: The Redteaming Experiment**
 
 **Redteaming** is a safety check in AI development where researchers try to "break the bot" to see if it will disobey its internal rules.
 
@@ -77,7 +77,7 @@ Since this is from a foundation rather than a corporation, how does the document
 
 **Can you convince Claude to offer advice that violates its "Constitution"?**
 
-**2. Important Boundaries
+**2. Important Boundaries**
 
 **Safety First:** Do not ask Claude for anything illegal, dangerous, discriminatory, or hateful.
 
@@ -86,7 +86,7 @@ Since this is from a foundation rather than a corporation, how does the document
 * Drafting a fictional medical excuse for a missed assignment.
 *Note: You have limited prompts on the free version of Claude. Use them strategically!*
 
-**3. Tips & Strategies
+**3. Tips & Strategies**
 
 Circumventing AI alignment requires creativity  and social engineering.
 
@@ -94,7 +94,7 @@ Circumventing AI alignment requires creativity  and social engineering.
 * **Stylistic Shifts:** In the past, framing requests as poetry or "hypothetical fiction" has bypassed filters.
 * *This is difficult by design. If you fail, think about why the AI resisted*
 
-**4. Collaborative Reflection
+**4. Collaborative Reflection**
 
 **Pair & Share:**
 
@@ -104,7 +104,7 @@ Talk to a neighbor about your experience.
 
 **The Writing Connection:** This exercise is a form of **iterative writing**. You were revising, testing, and adjusting your tone to achieve a specific rhetorical goal—just as you do in an essay.
 
-**5. For Submission
+**5. For Submission**
 
 Reflect on your experience by answering the following:
 

@@ -94,13 +94,13 @@ Why do you think we focus on Odysseus’s for son so long?
 -Proteus reveals to Menelaus the murder of Agamemnon by Aegisthus and Clytemnestra, followed by Orestes’s revenge (4.512–537).
 -This serves as a warning for Telemachus of what happens when a homecoming goes wrong and as a model for the vengeance he must eventually take.
 
-**4. Writing Activity (for Submission)
+**4. Writing Activity (for Submission)**
 
 -Spend a few minutes with your text. You are preparing for a textual scavenger hunt.
 -As a test of your knowledge of the book, I will be giving you a few things to find and write about. But there will be a strict time limit.
 -I am giving you time to prepare. The questions will be about the themes we have discussed today.
 
-**5: Scavenger Hunt
+**5: Scavenger Hunt**
 
 For Submission on the course website on the assignments page. Write in a .doc file and submit as a .doc or .pdf. Label each answer by number.
 
