@@ -2,7 +2,10 @@
 title: Week 2. Jan 21 and 23
 publish: true
 ---
-# Race as a Technology
+# Jan. 21st Slides
+---
+
+## Race as a Technology
 
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ah30j4O-Dfs?si=pu6stFvQAZ_hMCfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   

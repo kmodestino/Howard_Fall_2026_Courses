@@ -2,12 +2,13 @@
 title: Week 2 Jan. 21 and 23.
 publish: true
 ---
+# Jan. 21st Slides
+---
+
 # Reading in 2026
 
   
-
-![w:700](cognitive_load.jpeg)
-
+![[Cognitive load.jpeg]]
   
 # Active reading practice
 
@@ -32,8 +33,6 @@ publish: true
 -  Is a world without struggle actually a world without humanity?
 
 ### Rituals for Focus
-
-  
 
 - **The 20/5/20 Rule:** - Read for 20 minutes, "eyes-away" for 5, read for 20.
 
