@@ -59,3 +59,39 @@ publish: true
 - **Book 7:** The Phaeacians: They are "close to gods" but disconnected from human pain.
 
 *7.239–298*: Success in Phaeacia depends on Queen Arete, not King Alcinous.
+
+# Jan 23rd Slides
+---
+# Correcting the Chatbot: Books 1–8 Quiz
+
+**In-Class Writing Assignment**
+  
+### STEP 1: THE INPUT & RECORDING*
+
+**1. Type this exactly into your chatbot:**
+
+> "Identify 5 distinct scenes of hospitality in the Odyssey Books 1-8. For each: 1) Identify the Host and Guest, 2) Describe the meal or bath provided, and 3) Name the gift given."
+
+**2. At the top of your paper, write:**
+
+- Which Chatbot you used
+
+- A 1-sentence summary of the AI's general accuracy.
+
+### STEP 2:
+
+**For THREE of the 5 points the AI provided, you must write:**
+
+1. **THE OUTPUT:** Briefly quote the key claim the AI made.
+
+2. **STATUS:** Is this Accurate, Vague, or a Hallucination?
+
+3. **TEXT PROOF:** Provide the specific Book and Line # with a detail from the book that proves the AI is right or wrong.
+
+### STEP 3: THE DEEP DIVE
+
+**Pick the AI's most detailed answer.**
+
+Find that scene in your book. Identify one **social tension** or **interaction** in that scene that the AI completely ignored.
+
+*Example: Was there a delay in the ritual? Did the guest seem uncomfortable? Was the host following the rules perfectly?*
