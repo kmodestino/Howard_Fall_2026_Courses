@@ -28,3 +28,4 @@ Please use the links below to navigate the course information. Weekly assignment
 
 [[Courses/Writing, Literacy, and Discourse/7. Weekly Assignments/index|7. Weekly Assignments]]
 
+[[8. Chatbot Tutor for WLD]]
