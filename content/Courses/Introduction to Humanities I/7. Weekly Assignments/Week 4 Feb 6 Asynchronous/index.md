@@ -1,5 +1,5 @@
 ---
-title: Week 4 Feb 6 Asynchronous
+title: index
 Publish: true
 ---
 ## "The Odyssey": From Lingering Questions to Research
