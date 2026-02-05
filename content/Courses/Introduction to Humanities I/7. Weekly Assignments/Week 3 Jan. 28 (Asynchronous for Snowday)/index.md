@@ -21,7 +21,7 @@ When he meets **Elpenor** in the Underworld (Book 11), we see a crack in that ma
 
 # Click your section to submit
 
-[[Section 07 (10.10 AM) Week 3]]
+[[Courses/Introduction to Humanities I/7. Weekly Assignments/Week 3 Jan. 28 (Asynchronous for Snowday)/Section 07 (10.10 AM) Week 3]]
 
 [[Section 01 (12.10 PM) Week 3]]
 

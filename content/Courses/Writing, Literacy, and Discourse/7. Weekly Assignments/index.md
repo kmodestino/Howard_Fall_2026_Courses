@@ -8,4 +8,6 @@ publish: true
 
 [[Week 3 (Jan. 28) Asynchronous]]
 
+[[Week 4 (Feb 6) Asynchronous]]
+
 
