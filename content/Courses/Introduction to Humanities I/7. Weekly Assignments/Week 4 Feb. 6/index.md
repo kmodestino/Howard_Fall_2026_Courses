@@ -1,5 +1,5 @@
 ---
-title: index
+title: Week 4 Feb. 6
 Publish: true
 ---
 ## "The Odyssey": From Lingering Questions to Research
