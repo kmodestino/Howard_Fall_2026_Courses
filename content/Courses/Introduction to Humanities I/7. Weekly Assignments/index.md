@@ -8,4 +8,4 @@ publish: true
 
 [[Courses/Introduction to Humanities I/7. Weekly Assignments/Week 3 Jan. 28 (Asynchronous for Snowday)/index | Week 3 Jan. 28 (Asynchronous)]]
 
-[[Courses/Introduction to Humanities I/7. Weekly Assignments/Week 4 (Feb 6) Asynchronous/index|Week 4 (Feb 6th)]]
+[[Courses/Introduction to Humanities I/7. Weekly Assignments/Week 4 (Feb 6) Asynchronous/|Week 4 (Feb 6th)]]
