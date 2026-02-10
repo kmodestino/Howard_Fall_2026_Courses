@@ -2,7 +2,7 @@
 title: Week 4 Feb 2, 4, and 6
 publish: true
 ---
-## Feb 2 Slidedeck
+## Feb 2 Slide Deck
 ## Odysseus: The Lord of Lies
 
 ### Why tell the story now?
