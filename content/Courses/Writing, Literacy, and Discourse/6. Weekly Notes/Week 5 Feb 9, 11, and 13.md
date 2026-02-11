@@ -83,3 +83,72 @@ Zuboff concludes her *NYT* piece by saying:
 
 * If the internet is a hostile territory, how do we build sanctuaries?
 
+# Wednesday Slides (Feb 11th)
+# The Rhetoric of Corporate Responsibility
+
+### Analyzing AI Ethics Statements (2026)
+
+**Google | Meta | Anthropic | OpenAI**
+
+## Today’s Objective
+
+**Deconstruct** how corporate "ethics" function as multi-layered rhetorical acts.
+
+1. **Identify** the target audience (Markets vs. Publics).
+
+2. **Expose** linguistic "weasel words" and defensive writing.
+
+3. **Compare** the strategic positioning of the four AI giants.
+## The Ethics Paradox
+
+> "Ethics statements are rarely about ethics; they are about **managing the perception of risk.**"
+
+— *Adapted from L. Furze (2024)*
+
+If a company says "We prioritize safety," are they promising a moral outcome or building a legal defense against future litigation?
+## Group Activity
+
+**Groups:** 1. Google | 2. Meta | 3. Anthropic | 4. OpenAI
+
+**The Task:** Find specific phrases in your assigned statement that speak to:
+
+1. **The Markets** (Investors)
+
+2. **The Publics** (General Users)
+
+3. **The Developers** (Engineers)
+
+4. **The Lawyers** (Regulators)
+
+## Group 1: Google
+
+### "The Institutionalist"
+* **Focus:** Integration and Utility.
+* **Look for:** Universalizing language ("socially beneficial").
+## Group 2: Meta
+
+### "The Democratizer"
+* **Focus:** Openness and Access.
+* **Look for:** Populist rhetoric ("Open source is the right path").
+## Group 3: Anthropic
+
+### "The Constitutionalist"
+* **Focus:** Safety and Alignment.
+* **Look for:** Technical-moral hybrid language ("Constitution," "Safety-first").
+
+## Group 4: OpenAI
+
+### "The Altruist"
+* **Focus:** Mission and Humanity.
+* **Look for:** Theological terms ("AGI," "Humanity," "Alignment").
+
+## Discussion: What’s Missing?
+
+Look at the margins. Does your document mention:
+* **Energy consumption?**
+
+* **Data labeling labor** (Global South)?
+
+* **Copyright/Intellectual Property?**
+
+**Silence is a rhetorical choice.**
