@@ -152,3 +152,68 @@ Look at the margins. Does your document mention:
 * **Copyright/Intellectual Property?**
 
 **Silence is a rhetorical choice.**
+
+# Friday Feb. 13th Slides Writing Lab
+
+# From "Happy Talk" to Moral Clarity
+
+### Applying Ruha Benjamin to AI Ethics
+
+## The Goal for Today
+
+1. **Regroup:** Finalize your rhetorical analysis. Each group member should pick a different quotation from the statement to work on.
+
+2. **Rewrite:** Transform a "weasel-word" statement into a concrete moral commitment.
+
+3. **Connect:** Explain your rewrite using Ruha Benjamin’s framework.
+
+## The Radical Rewrite (20 Mins)
+
+**Pick one paragraph from your assigned statement.**
+
+**The Challenge:**
+
+Strip away the "Automated Benevolence."
+
+* No more: *“We strive to…”*
+
+* No more: *“Where appropriate…”*
+
+* No more: *“Benefiting humanity…”*
+
+**Write a commitment that actually costs the company something (money, time, or data).**
+
+## Example: Google
+
+**Original:** "We will avoid bias that has negative impacts on people, particularly those related to sensitive characteristics."
+
+**Benjamin-Informed Rewrite:**
+
+"We will halt the deployment of any tool that fails to achieve parity in error rates across all groups, acknowledging that historical data is a record of past exclusion."
+
+## Part 2: The Benjamin Justification (25 Mins)
+
+**Explain your rewrite using one of these concepts:**
+
+1. **The New Jim Code:** How did you stop the tech from being a "shinier" version of old discrimination?
+
+2. **Informed Refusal:** Where did you draw a line in the sand and say "No"?
+
+3. **Default Discrimination:** How did you move the "default user" away from the Silicon Valley elite?
+
+ "The desire for objectivity is often a desire to be free of the responsibility of being a subject."
+
+— *Ruha Benjamin*
+
+   Own the subjectivity. Your rewrite should reflect a specific, situated moral stance, not a "neutral" corporate one.
+
+## Submission Requirements
+
+**Due at end of Class:**
+
+
+1. **The Original:** Paste the corporate paragraph.
+
+2. **The Rewrite:** Your revised moral commitment.
+
+3. **The Critique:** 250 words connecting your changes to *Race After Technology*.

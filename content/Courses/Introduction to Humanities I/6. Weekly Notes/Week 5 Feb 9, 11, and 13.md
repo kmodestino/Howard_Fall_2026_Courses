@@ -150,3 +150,52 @@ This is a *literary* product. Unlike the oral improvisations of Homer, *Gilgames
 * Look at the opening and closing of the poem: why is the Wall the first and last thing the reader sees?
 
 * By the end, has Gilgamesh actually won? Does the survival of the city compensate for the death of the friend and the loss of youth?
+
+# Friday Slides Feb. 13th Writing Activity
+
+# Comparative Analysis: Gilgamesh and Ancient Epic Traditions
+## Exercise Overview: The Shared Motif
+
+**Time: 5 Minutes**
+
+**Objective:** Identify a thematic intersection between two ancient works.
+
+* **Task:** Choose one central theme from *The Epic of Gilgamesh*.
+
+* **Comparison:** Pair this theme with a secondary text. Feel free to use the Odyssey or anything else you have knowledge of (I.e The Old Testiment)
+
+* **Initial Outline:** List three points where these stories overlap in plot, characterization, or imagery.
+
+## Writing Task: The Point of Departure
+
+**Time: 30 Minutes**
+
+**Objective:** Examine how different cultures adapt similar stories to reflect unique values.
+
+1. **The Literary Convention:** Briefly describe the common element shared by both texts (e.g., a catastrophic flood or a quest for eternal life).
+
+2. **The Contrast:** Identify the specific moment where the two texts move in different directions. Focus on the *actions* of the characters or the resolution.
+
+3. **Interpretive Conclusion:** Explain what this difference suggests about the worldview of each culture. Does the text prioritize individual legacy, civic duty, religious obedience or something else?
+## Peer Review: Finding Counter-Evidence
+
+**Time: 15 Minutes**
+
+**Objective:** Refine your argument by addressing textual complexities.
+
+* **Exchange:** Trade your response with a classmate.
+
+* **The Challenge:** Locate a specific line or scene in the primary text that might complicate or contradict your partner’s main argument.
+
+* **Response:** In two sentences, the original author must explain how that specific passage fits into their broader reading of the poem.
+## Themes for Investigation
+
+| Theme | *Gilgamesh* Focus | Comparative Focus |
+
+| :--- | :--- | :--- |
+
+| **Friendship** | The Hero's Second Self or Mirror (Enkidu) | The Loyal Subordinate or the Faithful Spouse |
+
+| **The Role of Women** | Divine Intermediaries and Civilizing Figures | The Temptress, the Prophetess, or the Domestic Ideal |
+
+| **The Divine and Prophecy** | Impulsive or Capricious Gods | Law-giving, Moral, or Covenant-based Deities |
