@@ -12,3 +12,4 @@ publish: true
 
 [[Courses/Introduction to Humanities I/6. Weekly Notes/Week 5 Feb 9, 11, and 13|Week 5 Feb 9, 11, and 13]]
 
+[[Courses/Introduction to Humanities I/6. Weekly Notes/Week 6 Feb. 18 and 20.|Week 6 Feb. 18 and 20.]]

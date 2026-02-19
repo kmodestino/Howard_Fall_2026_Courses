@@ -10,7 +10,9 @@ publish: true
 
 [[Week 4 Feb. 2, 4, and 6]]
 
-[[Courses/Writing, Literacy, and Discourse/6. Weekly Notes/Week 5 Feb 9, 11, and 13]]
+[[Courses/Writing, Literacy, and Discourse/6. Weekly Notes/Week 5 Feb 9, 11, and 13|Week 5 Feb 9, 11, and 13]]
+
+[[[Courses/Writing, Literacy, and Discourse/6. Weekly Notes/Week 6 Feb. 18 and 20.|Week 6 Feb. 18 and 20.]]
 
 
 

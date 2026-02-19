@@ -12,3 +12,5 @@ publish: true
 
 [[Courses/Writing, Literacy, and Discourse/7. Weekly Assignments/Week 5 Feb 13th|Week 5 Feb 13th]]
 
+[[Courses/Writing, Literacy, and Discourse/7. Weekly Assignments/Week 6 Jan. 20th|Week 6 Jan. 20th]]
+
