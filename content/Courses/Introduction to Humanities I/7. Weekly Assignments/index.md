@@ -12,4 +12,4 @@ publish: true
 
 [[Courses/Introduction to Humanities I/7. Weekly Assignments/Week 5 Feb 13th|Week 5 Feb 13th]]
 
-[[Courses/Introduction to Humanities I/7. Weekly Assignments/Week 6 Jan. 20th|Week 6 Jan. 20th]]
+[[Courses/Introduction to Humanities I/7. Weekly Assignments/Week 6 Feb. 20th|Week 6 Jan. 20th]]
