@@ -44,3 +44,8 @@ Can oral tradition maintain accuracy over 700 years?
 - In Mande tradition, a leader is judged by their ability to "calculate" the social and spiritual field.
 -  Like Wori, Sundiata wins by outmaneuvering Soumaoro through patience and the accumulation of resources.
 ![[wori.jpg]]
+
+
+# Friday
+
+Reading day to prep for midterm, exit ticket was two sentences on what you read.
