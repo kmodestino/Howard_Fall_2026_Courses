@@ -38,5 +38,7 @@ publish: true
 - **Power:** If the *Sundiata* is about the accumulation of energy, allies, and community, which performance style better captures that force for a modern audience?
 
 <br>
+# Wednesday Midterm Day
 
+# Friday
 <br>
