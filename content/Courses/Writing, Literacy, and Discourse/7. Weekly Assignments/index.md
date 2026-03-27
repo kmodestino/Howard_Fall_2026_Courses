@@ -14,3 +14,7 @@ publish: true
 
 [[Courses/Writing, Literacy, and Discourse/7. Weekly Assignments/Week 6 Feb. 20th|Week 6 Feb.  20th]]
 
+Weeks 7, 8, 9 were the Midterm and Spring Break
+
+[[Week 10 March 27]]
+

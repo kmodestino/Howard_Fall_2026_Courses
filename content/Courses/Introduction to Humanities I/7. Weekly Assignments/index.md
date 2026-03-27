@@ -14,4 +14,6 @@ publish: true
 
 [[Courses/Introduction to Humanities I/7. Weekly Assignments/Week 6 Feb. 20th|Week 6 Jan. 20th]]
 
+Weeks 7, 8 and 9 Were the Midterm and Spring Break
+
 [[Week 10 March 27th]]

@@ -15,3 +15,9 @@ publish: true
 [[Courses/Introduction to Humanities I/6. Weekly Notes/Week 6 Feb. 18 and 20.|Week 6 Feb. 18 and 20.]]
 
 [[Week 7 Feb 23, 25, and 27th]]
+
+[[Week 8 (WEEK BEFORE SPRING BREAK, NO NOTES)]]
+
+[[Week 9 March 18th and 20th.]]
+
+[[Week 10 March 23, 25, and 27]]
