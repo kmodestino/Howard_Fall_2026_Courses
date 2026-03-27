@@ -567,3 +567,21 @@ Nyasha is being destroyed by "Englishness."
   
 
 > "Quietly, unobtrusively and extremely fitfully, something in my mind began to assert itself, to question things and refuse to be brainwashed."
+
+
+# March 27
+
+# Freewrite — Full Period
+
+
+Choose **one** of the following novels and write continuously:
+
+- *Nervous Conditions* (Dangarembga)
+
+- *Macunaíma* (Mário de Andrade)
+
+**Prompt:** Pick a moment where a character's desire for something — education, belonging, recognition, home — comes into direct conflict with what they'd have to give up to get it. What exactly is at stake in that tension? Don't just name the conflict; try to describe how the text makes you *feel* it.
+
+Write without stopping. Don't worry about being polished or correct — follow the thinking wherever it goes. If you feel stuck, pick a different moment and keep moving.
+
+Use the full 50 minutes. Length matters less than sustained attention.

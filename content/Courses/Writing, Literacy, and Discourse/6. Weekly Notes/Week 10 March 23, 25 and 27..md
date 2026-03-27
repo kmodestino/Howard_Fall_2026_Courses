@@ -652,3 +652,31 @@ When ads become bizarre, irrelevant, or incomprehensible, the feedback loop that
 
 - How does this argument relate to Shoshana Zuboff's *surveillance capitalism* framework?
 
+
+# March 27
+
+# Research Question Brainstorm
+
+  
+
+Your final paper is **5–7 pages** with a clear, arguable thesis. Open topic — but it needs to be *specific enough to research and argue in four weeks.*
+
+  
+
+**Step 1:** Write down 2–3 things from this course that stuck with you, surprised you, or made you angry.
+
+  
+
+**Step 2:** For each, try to turn it into a *question* — not "what is X?" but "why does X happen?" or "what are the consequences of X for Y?"
+
+  
+
+**Step 3:** Stress-test your best question. Can you imagine someone disagreeing with your answer? Can you find sources? If the answer is obvious or the scope is enormous, narrow it.
+
+  
+
+A good research question names a *specific technology or practice*, a *specific population or context*, and a *specific tension or consequence*.
+
+  
+
+By the end of class, have one working question written down — even if it's rough.
