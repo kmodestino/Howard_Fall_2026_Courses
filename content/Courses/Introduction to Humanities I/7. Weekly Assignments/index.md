@@ -17,3 +17,5 @@ publish: true
 Weeks 7, 8 and 9 Were the Midterm and Spring Break
 
 [[Week 10 March 27th]]
+
+[[Week 11 Due April 2nd (Extra Credit)]]
