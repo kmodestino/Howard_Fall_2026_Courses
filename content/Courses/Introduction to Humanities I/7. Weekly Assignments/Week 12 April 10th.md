@@ -11,6 +11,6 @@ Critics argue that this narrative obscures who benefits and who is displaced. Th
 
 How does Desai use the novel's structure, its alternating plotlines, shifts in time and place, and movement between characters who never meet, to represent the kinds of connections and disconnections that globalization produces?
 
-Submit here [Alternate Link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBURUU5SzVHS1BGWkk3TFQwM1lYQ1lDVEs0Mi4u)
+Submit here [Alternative Link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBUNFdLUDVIMzFUUzRNNUFONlczSEdYR0U5Vy4u)
 
-<iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBURUU5SzVHS1BGWkk3TFQwM1lYQ1lDVEs0Mi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBUNFdLUDVIMzFUUzRNNUFONlczSEdYR0U5Vy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
