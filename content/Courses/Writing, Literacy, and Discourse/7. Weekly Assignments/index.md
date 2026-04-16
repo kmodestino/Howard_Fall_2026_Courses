@@ -22,3 +22,5 @@ Weeks 7, 8, 9 were the Midterm and Spring Break
 
 [[Week 12 April 10th Writing Lab]]
 
+[[Courses/Writing, Literacy, and Discourse/7. Weekly Assignments/Week 13 April 17|Week 13 April 17]]
+

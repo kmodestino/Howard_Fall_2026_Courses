@@ -21,3 +21,5 @@ Weeks 7, 8 and 9 Were the Midterm and Spring Break
 [[Week 11 Due April 2nd (Extra Credit)]]
 
 [[Week 12 April 10th]]
+
+[[Courses/Introduction to Humanities I/7. Weekly Assignments/Week 13 April 17]]
