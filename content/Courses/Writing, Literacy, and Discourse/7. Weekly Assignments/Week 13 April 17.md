@@ -12,7 +12,7 @@ A strong introduction does three things: it establishes a problem or tension wor
 
 **The throat-clearing test.** Read your first sentence. If it could appear at the start of any essay ever written on any topic — "Throughout history, humans have communicated in many ways" — cut it. Start as close to your actual argument as possible. Odell doesn't open How to Do Nothing with a general claim about technology or modern life. She opens in a rose garden, with a specific crisis of attention. That's the pressure point. Find yours.
 
-**Workshop prompt.** Draft an introduction to your essay in 150–200 words. Trade with a partner and answer: What is the claim? Who is the audience? Where does the introduction start to stall or go vague? Then revise based on your partner's feedback and submit the final version at the end of class.
+**Workshop prompt.** Draft an introduction to your essay in 150–200 words. Then take at least an hour or two away from it. Come back with fresh eyes and ask the following of yourself: What is the claim? Who is the audience? Where does the introduction start to stall or go vague? Then revise based on you observe and submit the final version below.
 
 Submit Here: [Alternate Link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBUNThRT0Q4TkQwN0FBNTY4R1Q1RDZKRzZVUC4u)
 <iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBUNThRT0Q4TkQwN0FBNTY4R1Q1RDZKRzZVUC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
