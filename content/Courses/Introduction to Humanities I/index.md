@@ -26,3 +26,5 @@ Please use the links below to navigate the course information. Weekly assignment
 [[Courses/Introduction to Humanities I/7. Weekly Assignments/index|7. Weekly Assignments]]
 
 [[8. Custom Course Tutor for Humanities I]]
+
+[[9. Final Exam (Take Home)]]
