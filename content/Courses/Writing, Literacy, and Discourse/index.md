@@ -31,3 +31,5 @@ Please use the links below to navigate the course information. Weekly assignment
 [[8. Chatbot Tutor for WLD]]
 
 [[9. Midterm Assignment]]
+
+[[10. Final Paper]]
