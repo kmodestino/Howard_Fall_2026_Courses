@@ -8,7 +8,7 @@ I am using a single website for all of my courses. Your syllabi will be here, as
 
 # Choose Your Course:
 
-[[Introduction to Humanities II/index|Introduction to Humanities II]]
+[[Humanities II|Introduction to Humanities II]]
 
 [[American Literature/index|American Literature]]
 
