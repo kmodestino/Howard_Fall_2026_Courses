@@ -10,7 +10,7 @@ I am using a single website for all of my courses. Your syllabi will be here, as
 
 [[Humanities II|Introduction to Humanities II]]
 
-[[American Literature/index|American Literature]]
+[[Writing, Literacy, Discourse/Index|Writing, Literacy, and Discourse]]
 
 # About Me/Book a Meeting
 
