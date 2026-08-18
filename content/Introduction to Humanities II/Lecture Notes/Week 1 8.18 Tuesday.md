@@ -1,6 +1,6 @@
 ---
 title: Week 1 8.18 Tuesday
-publish:
+publish: true
 ---
 ## Key Outcomes
 
