@@ -17,3 +17,5 @@ Alongside the plays, we will read excerpts of philosophy. Both the aesthetic ana
 [[Introduction to Humanities II/3. Discussion Commitments|3. Discussion Commitments]]
 
 [[Introduction to Humanities II/4. University Policies and Resources|4. University Policies and Resources]]
+
+[[Introduction to Humanities II/Lecture Notes/index|5. Lecture Notes]]
