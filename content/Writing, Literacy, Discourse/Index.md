@@ -18,4 +18,6 @@ By December, you'll have a portfolio built the same way these texts were: senten
 
 [[3. Weekly Assignment Descriptions]]
 
+[[Writing, Literacy, Discourse/4. University Policies and Resources|4. University Policies and Resources]]
+
 
