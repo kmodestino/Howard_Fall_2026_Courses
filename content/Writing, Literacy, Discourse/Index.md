@@ -20,4 +20,6 @@ By December, you'll have a portfolio built the same way these texts were: senten
 
 [[Writing, Literacy, Discourse/4. University Policies and Resources|4. University Policies and Resources]]
 
+[[Writing, Literacy, Discourse/Lecture Notes 1/index|5: Lecture Notes]]
+
 
