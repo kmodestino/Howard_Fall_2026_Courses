@@ -16,8 +16,6 @@ Beyond the classroom, I am a proud member of the Howard NTT Faculty Union (SEIU 
 kevin.modestino@howard.edu
 
 ### *Schedule a Meeting*
-Office Hours, Monday and Friday 2-3:30 PM Locke 234
+Office Hours, Monday, Wednesday, and Friday 2-4 PM Online
 
-[Book time with Modestino, Kevin: 15 minute office meeting](https://outlook.office.com/bookwithme/user/c56ccbac13f940a493bc2838dd7c6324@howard.edu/meetingtype/dF_0SUO5REaSJCOZpPo9_A2?bookingcode=aa480c09-b182-464b-9a23-6a9231b16c12&anonymous&ismsaljsauthenabled&ep=mcard)
-
-Other times available by Teams or Zoom, request by email
+https://scheduler.zoom.us/kevin-modestino/office-hours
