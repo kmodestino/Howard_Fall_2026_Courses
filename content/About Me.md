@@ -4,14 +4,15 @@ publish: true
 ---
 ### **About Dr. Modestino**
 
-I arrived at Howard with a Ph.D. from Duke and a deep commitment to the ways that storytelling—whether in ancient oral epics, the discipline of history, or digital code—records and shapes our world. While my early research focused on the 19th-century Atlantic, my time teaching at Howard has centered on a broader challenge: how we maintain critical literacy as the tools we use to write and think continue to evolve.
+I am a specialist in Early American and African-American literature, with research interests in aesthetics, abolitionism, historiography, and the environmental humanities. I earned my B.A. in English and Cinema Studies from New York University in 2007 and my Ph.D. in English from Duke University in 2014.
 
-My work is driven by an abiding interest in the intersection of the traditional humanities and our modern digital reality. Whether we are interrogating a classic global text or experimenting with a chatbot in a writing lab, the goal is the same: to understand how language is used to organize and mediate information and exercise power. I believe the analytical tools we use to navigate the ethics of a historical narrative are the same tools we must use to interrogate the algorithms that mediate our lives today.
+I am currently at work on my first monograph, under contract to be published by Edinburgh University Press.“The Aesthetics of History, Imperial Time, and Slave Revolution in Antebellum America,” seeks to critically reframe antebellum U.S. history writing as an aesthetic project responding to the hemispheric imperial political contexts of the Haitian Revolution, Central and South American emancipations, the U.S.-Mexican War, and southern dreams of Caribbean plantation zone expansion. An essay from this project, “William H. Prescott’s Imperial Aesthetic” has been published in _ESQ: A Journal of Nineteenth-Century American Literature_ and research has previously appeared in _Studies in American Naturalism_, _American Literature, NOVEL: A Forum on Fiction._ _Science-Fiction Film and Television_ and the collected edition, _Apocalypse in American Literature and Culture_ from Cambridge University Press. My most recent essay, "Octavia Butler’s Parable Novels and Genealogies of African-American Environmental Literature,” was published in _Resilience: A Journal of Environmental Humanities._
 
-In my classes, we bridge the gap between the historical record and critical algorithmic literacy. We treat technology not just as a tool, but as a form of writing with its own biases, risks, and structural logic. My goal is for you to leave this room not just as a better writer or researcher, but as a sharper thinker capable of navigating the complex systems—both human and algorithmic—that define our world.
+In addition to my work at Howard, where I have taught since 2014, I have collaborated with a number of European-based American Studies Initiatives, including the Bavarian American Academy and the Obama Institute for American Studies in Mainz. I was recently invited to deliver the keynote at a research network workshop "Voices and Agencies: America in the Atlantic 1600-1865" at Siegen Universitat, Germany held February 16-17 2023. 
 
-Beyond the classroom, I am a proud member of the Howard NTT Faculty Union (SEIU Local 500), where I work to ensure the university remains a supportive environment for the people who drive its mission.
+At Howard, I teach the Introduction to Humanities sequence and American Literary Foundations. 
 
+I am a proud member of the Howard NTT Faculty Union with SEIU Local 500.
 ### *Contact Me* ###
 kevin.modestino@howard.edu
 
