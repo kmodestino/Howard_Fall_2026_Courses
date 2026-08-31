@@ -17,6 +17,6 @@ I am a proud member of the Howard NTT Faculty Union with SEIU Local 500.
 kevin.modestino@howard.edu
 
 ### *Schedule a Meeting*
-Office Hours, Monday, Wednesday, and Friday 2-4 PM Online
+Office Hours, Monday, Friday 2-4 PM, Wednesday 12-2 PM Online
 
 https://scheduler.zoom.us/kevin-modestino/office-hours
