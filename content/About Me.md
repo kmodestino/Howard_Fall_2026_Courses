@@ -19,4 +19,6 @@ kevin.modestino@howard.edu
 ### *Schedule a Meeting*
 Office Hours, Monday, Friday 2-4 PM, Wednesday 12-2 PM Online
 
+Please schedule at least 12 hours in advance of the meeting time.
+
 https://scheduler.zoom.us/kevin-modestino/office-hours
