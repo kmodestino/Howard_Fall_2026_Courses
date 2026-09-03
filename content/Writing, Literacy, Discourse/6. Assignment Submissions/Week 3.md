@@ -6,7 +6,7 @@ publish: true
 
 **Due:** Monday Sept. 7th at Midnight, double spaced 12 pt. font.
 
-**Two items** — (1) a subordinate paragraph you find elsewhere (in this sermon, another assigned reading, or something else you're reading), labeled by level (L1, L2, etc.) with a brief note on what move each level makes on the one before it; and (2) a paragraph of your own — a topic sentence (Level 1) followed by three levels of subordinate sentences (Levels 2–4), the whole reading as one coherent paragraph, not four separate sentences.
+**Two items** — (1) a subordinate paragraph you find in the Edwards reading labeled by level (L1, L2, etc.) with a brief note on what move each level makes on the one before it; and (2) a paragraph of your own — a topic sentence (Level 1) followed by three levels of subordinate sentences (Levels 2–4), the whole reading as one coherent paragraph, not four separate sentences.
 
 **What this means:**
 
