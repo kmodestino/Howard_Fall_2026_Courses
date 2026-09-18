@@ -48,6 +48,8 @@ Two-part test. If your question fails either part, revise it.
 > **Evidence:** The title page announces the work in four Articles together with a Preamble, reproducing the sequence of the Constitution's own divisions, and Walker ends by quoting the Declaration's self-evident truths back at white readers as terms they themselves have broken.  
 > **Warrant:** When a writer adopts the formal architecture of a document his audience already recognizes, the borrowed form makes an argument of its own, independent of anything the sentences assert.
 
-#### Length and scope
+The actual paper will be five pages. A question you cannot answer in five pages is the most common failure at this stage — narrower questions produce better essays, not thinner ones. If your question would require a chapter, cut it down to the single case you can actually argue. 
 
-Five pages. A question you cannot answer in five pages is the most common failure at this stage — narrower questions produce better essays, not thinner ones. If your question would require a chapter, cut it down to the single case you can actually argue.
+Submit as PDF Here [Week 5 Assignment – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBURTBHWjJVU1AzWlc5MUNLRFFVWFNTTTZCQi4u)
+
+<iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBURTBHWjJVU1AzWlc5MUNLRFFVWFNTTTZCQi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
