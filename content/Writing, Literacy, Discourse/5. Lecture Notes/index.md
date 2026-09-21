@@ -27,3 +27,7 @@ Week 3 9.4 Friday **CLASS CANCELLED** Assignment page linked here: [[Week 3]]
 [[Week 5 9.14 Monday]]
 
 Week 5 9.16 **CLASS CANCELLED** Think about paper topics, make sure to focus on topics that can use textual interpretation as evidence.
+
+Week 5 9.18 No Class for Convocation
+
+[[Week 6 9.21 Monday]]
