@@ -7,6 +7,8 @@ publish: true
 
 **Due:** three candidate thesis claims for your essay, each with one sentence of evidence and one sentence of warrant, plus a closing sentence naming the strongest.
 
+# Due Thursday Sept. 24th at Midnight
+
 #### The essay this leads to
 
 A five-page interpretive essay on a question of your own choosing, arguing a contestable claim about the meaning of particular historical or cultural evidence. Not a summary, not a report, not a reflection.
@@ -40,7 +42,7 @@ Two-part test. If your question fails either part, revise it.
 4. For each, add:
     - **Evidence** (one sentence): the specific passage, document, or detail that would support the claim.
     - **Warrant** (one sentence): the assumption that makes that evidence count as support — state it explicitly, since it is the part readers dispute without saying so.
-5. Close with one sentence: which of the three is strongest, and why.
+5. Submit online and bring to class on Friday Sept. 25th.
 
 **Worked example of 4:**
 
