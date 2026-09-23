@@ -31,3 +31,5 @@ Week 5 9.16 **CLASS CANCELLED** Think about paper topics, make sure to focus on 
 Week 5 9.18 No Class for Convocation
 
 [[Week 6 9.21 Monday]]
+
+[[Week 6 9.23 Wednesday]]
