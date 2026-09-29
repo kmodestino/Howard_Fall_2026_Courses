@@ -33,3 +33,7 @@ Week 5 9.18 No Class for Convocation
 [[Week 6 9.21 Monday]]
 
 [[Week 6 9.23 Wednesday]]
+
+Week 6 9.25 Friday **SEE ASSIGNMENT** for week 6
+
+[[Week 7 9.28 Monday]]
