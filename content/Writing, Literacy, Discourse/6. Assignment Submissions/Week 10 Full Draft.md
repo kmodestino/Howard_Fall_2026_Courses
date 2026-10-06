@@ -2,7 +2,7 @@
 publish: true
 title: Week 10 Full Draft
 ---
-**Essay Draft**
+# **Essay Draft**
 
 **Due:** Sunday, October 25, at 11:59 p.m., two things:
 
@@ -70,3 +70,7 @@ If you can't think of any serious objection, that usually means the claim isn't 
 - **Thesis claim:** the single sentence stating the specific, contestable position your essay argues.
 - **Warrant:** the assumption that makes your evidence count as support for your claim.
 - **Counterargument:** the strongest fairly stated objection to your claim, followed by your response.
+
+Submit Here: [Alternate Link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBUMzlUNjhSUkZMVzc0QzJKSTRFVUZMUURTUS4u)
+
+<iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=BwysAl-3v0abEzYwupS7afmQYcy0PFFFpHKQ24RuMzBUMzlUNjhSUkZMVzc0QzJKSTRFVUZMUURTUS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
