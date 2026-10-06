@@ -2,7 +2,7 @@
 title: Week 7 (Both Days)
 publish: true
 ---
-
+_Note: Transition to Teams resulting in each section only meeting once, but on different days, these notes are an overview of the session for both the section that met on Tuesday and the Section that met on Thursday_
 # Nietzsche, Hermeneutics, and the Politics of Interpretation
 
 ### Overview

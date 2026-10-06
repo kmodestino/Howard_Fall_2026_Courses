@@ -37,3 +37,9 @@ Week 5 9.18 No Class for Convocation
 Week 6 9.25 Friday **SEE ASSIGNMENT** for week 6
 
 [[Week 7 9.28 Monday]]
+
+Week 7 9.30 Wednesday **Class Cancelled due to Zoom being discontinued**
+
+[[Week 7 10.2 Friday]]
+
+Week 8 10.5 Monday: Review of Full Paper Draft Assignment See here [[Week 10 Full Draft]]
