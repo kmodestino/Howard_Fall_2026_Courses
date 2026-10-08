@@ -21,3 +21,5 @@ Alongside the plays, we will read excerpts of philosophy. Both the aesthetic ana
 [[Introduction to Humanities II/Lecture Notes/index|5. Lecture Notes]]
 
 [[6. Oral Defense Guidelines and Rubric]]
+
+[[7. Hegel Reading Guide]]
