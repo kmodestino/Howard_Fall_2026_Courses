@@ -43,3 +43,5 @@ Week 7 9.30 Wednesday **Class Cancelled due to Zoom being discontinued**
 [[Week 7 10.2 Friday]]
 
 Week 8 10.5 Monday: Review of Full Paper Draft Assignment See here [[Week 10 Full Draft]]
+
+[[Week 8 10.7 Wednesday]]
