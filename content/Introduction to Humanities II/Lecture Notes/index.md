@@ -31,3 +31,5 @@ Week 6 9.22 Tuesday **CLASS CANCELLED**
 [[Week 7 (Both Days)]]
 
 [[Week 8 10.6 Tuesday]]
+
+[[Week 8 10.8 Thursday]]

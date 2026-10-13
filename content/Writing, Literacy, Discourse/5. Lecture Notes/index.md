@@ -45,3 +45,7 @@ Week 7 9.30 Wednesday **Class Cancelled due to Zoom being discontinued**
 Week 8 10.5 Monday: Review of Full Paper Draft Assignment See here [[Week 10 Full Draft]]
 
 [[Week 8 10.7 Wednesday]]
+
+Week 8 10.9 Friday: NO CLASS START OF LONG WEEKEND
+
+Week 9 10.12 Monday: NO CLASS HOLIDAY
