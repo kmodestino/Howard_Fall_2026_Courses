@@ -49,3 +49,5 @@ Week 8 10.5 Monday: Review of Full Paper Draft Assignment See here [[Week 10 Ful
 Week 8 10.9 Friday: NO CLASS START OF LONG WEEKEND
 
 Week 9 10.12 Monday: NO CLASS HOLIDAY
+
+[[Week 9 10.14 Wednesday]] Structural Outline. Link to assignment here: [[Week 9]]
