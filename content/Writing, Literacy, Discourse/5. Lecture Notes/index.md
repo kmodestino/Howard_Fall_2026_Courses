@@ -51,3 +51,5 @@ Week 8 10.9 Friday: NO CLASS START OF LONG WEEKEND
 Week 9 10.12 Monday: NO CLASS HOLIDAY
 
 [[Week 9 10.14 Wednesday]] Structural Outline. Link to assignment here: [[Week 9]]
+
+Week 9 10.16 Friday NO CLASS YARDFEST
