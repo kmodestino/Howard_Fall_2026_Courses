@@ -53,3 +53,9 @@ Week 9 10.12 Monday: NO CLASS HOLIDAY
 [[Week 9 10.14 Wednesday]] Structural Outline. Link to assignment here: [[Week 9]]
 
 Week 9 10.16 Friday NO CLASS YARDFEST
+
+Week 10 10.19 Monday WORK ON ESSAY
+
+[[Week 10 10.21 Wednesday]]
+
+
