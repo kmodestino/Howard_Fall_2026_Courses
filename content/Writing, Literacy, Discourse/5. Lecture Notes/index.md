@@ -58,4 +58,6 @@ Week 10 10.19 Monday WORK ON ESSAY
 
 [[Week 10 10.21 Wednesday]]
 
+[[Week 10 10.23 Friday]]
+
 
