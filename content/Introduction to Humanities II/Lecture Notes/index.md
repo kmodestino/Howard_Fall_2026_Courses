@@ -43,3 +43,7 @@ Week 6 9.22 Tuesday **CLASS CANCELLED**
 [[Week 10 10.22 Thursday]]
 
 [[Week 11 10.27 Tuesday]]
+
+[[Week 11 10.29 Thursday]]
+
+Week 12 11.3 Tuesday **No Class Election Day**
